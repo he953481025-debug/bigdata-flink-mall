@@ -1,0 +1,8 @@
+{"userId": "00001", "itemId": "00001", "categoryId":  "01", "behavior": "buy", "timestamp": 1688295537000}
+{"userId": "00001", "itemId": "00001", "categoryId":  "01", "behavior": "pay", "timestamp": 1688295539000}
+{"userId": "00001", "itemId": "00001", "categoryId":  "01", "behavior": "pv", "timestamp": 2}
+{"userId": "00001", "itemId": "00002", "categoryId":  "01", "behavior": "pv", "timestamp": 3}
+{"userId": "00001", "itemId": "00002", "categoryId":  "01", "behavior": "pv", "timestamp": 4}
+{"userId": "00001", "itemId": "00001", "categoryId":  "01", "behavior": "pv", "timestamp": 15}
+{"userId": "00001", "itemId": "00001", "categoryId":  "01", "behavior": "pv", "timestamp": 16}
+{"userId": "00001", "itemId": "00003", "categoryId":  "01", "behavior": "pv", "timestamp": 17}
